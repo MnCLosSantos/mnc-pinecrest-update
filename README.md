@@ -13,13 +13,6 @@
 Our update provides around 20 fixes (bodges) to the actual map, we have also added a dot towing yard next to the police station with two 2 vehicle bays with working garage doors ect. The same building also has 4 2 car garages for police/fire/ems to operate out of with another 5 car storage garage along with a helipad that can be reached by driving up the side ramp. we have also added fencing and gates to the area of the pd for another project *wip*. Othe minor additions ive probably forgotten
 
 ### 🌟 Preview Images
-
-
-
-## 🌟 Burgershot Update
-Our update provides a fully setup burgershot interior with some outside fixes.
-
-### 🌟 Preview Images
 <img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/d016dee7-88f7-48e5-be10-120b3fd8d815" />
 <img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/b9339213-d8fc-418e-8764-2d58d0692bc9" />
 <img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/3820c62b-1a36-4d4d-ba1a-3fab065a8aca" />
@@ -41,6 +34,23 @@ Our update provides a fully setup burgershot interior with some outside fixes.
 <img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/2feaaab1-2d08-44d5-bfc4-cd33e1608a06" />
 <img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/1f82b748-835b-44e8-8fb1-5b8a9c9af3a0" />
 <img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/a9e3aef3-9e0d-4179-91d3-07a02eabbd6e" />
+<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/fb16f3de-d66d-4a61-ba2c-269255e6b8c3" />
+<img width="1920" height="1080" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/3ffce0ce-99ee-4f7d-868e-1c16005430a4" />
+<img width="1920" height="1080" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/c7b9bc21-b05a-42c5-ab8e-4e0d993b9994" />
+
+
+## 🌟 Burgershot Update
+Our update provides a fully setup burgershot interior with some outside fixes.
+
+### 🌟 Preview Images
+<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/6de0ac4b-359f-4463-93d6-aa481b958e75" />
+<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/519e9395-f388-4c5c-8d83-e7e0719985b1" />
+<img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/91443b7e-96e9-401e-909d-8f680a6e62df" />
+<img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/e038c260-15d1-45ca-9cb6-acb79ac8bf8e" />
+<img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/af6eae9b-5acc-434c-8f66-3ca732305264" />
+<img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/fb246480-ce31-41c0-8085-0d21cdb0b0a5" />
+<img width="1920" height="1080" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/11b6809d-f5d1-48a8-8bc8-6b6379ec02bd" />
+
 
 
 
@@ -50,6 +60,26 @@ Our update provides a fully setup burgershot interior with some outside fixes.
 Our update adds a auction house/dealership with 3 offices, 1 apartment, a 4 car dual garage, vehicle storage and a the main auction area
 
 ### 🌟 Preview Images
+<img width="1920" height="1080" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/20022b00-cc30-461f-900f-c892963d2ee3" />
+<img width="1920" height="1080" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/2cbb52ea-1817-47ca-aed3-936782180e6a" />
+<img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/3f7673ab-5e2b-45f8-ad8a-d7c09c97b7e3" />
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/085849d5-fe51-4531-adba-1ee9216e81fb" />
+<img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/d7e8b0a5-1112-426c-af41-76c5bf2ef8e9" />
+<img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/63a51c7a-c3a1-4d45-b7fa-9c2c3477c7e6" />
+<img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/2a873df2-948a-4b7f-a4e6-d4b1b5be10ec" />
+<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/ed04a9d7-2b88-4138-930c-ba25b1fad222" />
+<img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/efe01c89-84f8-4459-8992-79fcf99a8fff" />
+<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/db62e474-b453-434b-a4d1-9c403d1ef513" />
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/1e9e266e-c20f-487f-aab1-1fece3331b8f" />
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/381e8b3b-4f31-409a-830a-20938879f1a4" />
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/83fe29c1-e5c0-4ccc-bcc4-71b06a0bc97d" />
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/73fbb103-9c05-4116-a900-01b3cc51139c" />
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/6bf68cdb-289e-4f61-bc7c-cc5ead9ba97e" />
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/941b2055-dbde-4851-bbf4-32c9410519d0" />
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/10434acf-3c3a-49e3-8466-20906ea1570b" />
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/ec72f72d-aa20-4d77-89d5-dce58372aaf0" />
+<img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/9d4841a1-798a-496f-b1a7-5174f7e831e6" />
+<img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/c5975c89-10bc-409f-a40a-a9e853260bbf" />
 
 
 
