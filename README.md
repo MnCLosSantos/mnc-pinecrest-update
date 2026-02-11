@@ -9,6 +9,9 @@
 
 **MNC Pinecrest Update** is a Ymap created to improve the playability of pinecrest by icemove, Tested on a QBCore server but its a standalone resource.
 
+## 🌟 Main Pinecrest Map
+Link: https://www.gta5-mods.com/maps/pinecrest-add-on-sp-fivem
+
 ## 🌟 Emergency Base Map and Fixes
 Our update provides around 20 fixes (bodges) to the actual map, we have also added a dot towing yard next to the police station with two 2 vehicle bays with working garage doors ect. The same building also has 4 2 car garages for police/fire/ems to operate out of with another 5 car storage garage along with a helipad that can be reached by driving up the side ramp. we have also added fencing and gates to the area of the pd for another project *wip*. Othe minor additions ive probably forgotten
 
