@@ -109,4 +109,12 @@ Our update adds a auction house/dealership with 3 offices, 1 apartment, a 4 car 
 
 ---
 
+## 📞 Download and Community
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aTBsSZe5C6)
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Script-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MnCLosSantos/mnc-pinecrest-update)
+
+---
+
 **Enjoy our pinecrest update on your server!** 🚗💨
