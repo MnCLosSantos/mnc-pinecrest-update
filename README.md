@@ -46,6 +46,7 @@ Our update provides around 20 fixes (bodges) to the actual map, we have also add
 Our update provides a fully setup burgershot interior with some outside fixes.
 
 ### 🌟 Preview Images
+<img width="1920" height="1080" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/5b6b68ca-5cde-4179-b330-2cc03eeb62dd" />
 <img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/6de0ac4b-359f-4463-93d6-aa481b958e75" />
 <img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/519e9395-f388-4c5c-8d83-e7e0719985b1" />
 <img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/91443b7e-96e9-401e-909d-8f680a6e62df" />
